@@ -16,6 +16,7 @@ body {
 }
 
 .content{
-    widht: 950px;
+    width: 950px;
+    margin: 0 auto;
     
 }
